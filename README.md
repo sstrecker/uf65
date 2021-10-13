@@ -18,6 +18,8 @@ which you may need in *rare* cases.
 
 
 
+https://github.com/sstrecker/uf65/blob/main/LaTeX-Package-UF65.zip
+
 
 The LNI LaTeX document class is well-documented with current documentation at:
 
