@@ -29,7 +29,9 @@ The LNI LaTeX document class is well-documented with current documentation at:
 
 http://mirrors.ctan.org/macros/latex/contrib/lni/lni.pdf
 
-*If you do not wish to use LaTeX,* please let us know early on and submit your contribution in an easily transferable format and submit all tables and figures as (non-bitmapped) PDF. We will then take care of transferring your contribution to LaTeX for final editing and compilation of the anthology.
+## If you do not wish to use LaTeX, ... 
+
+... please let us know early on and submit your contribution in an easily transferable format and submit all tables and figures as (non-bitmapped) PDF. We will then take care of transferring your contribution to LaTeX for final editing and compilation of the anthology.
 
 ## Deadline is September 30, 2022
 
