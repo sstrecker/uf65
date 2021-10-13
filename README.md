@@ -14,9 +14,13 @@ https://github.com/gi-ev/LNI
 
 which you may need in *rare* cases.
 
+## You may use this prepared LaTeX document for writing your contribution
+
 **Please note:** We have prepared a LaTeX document for writing your contribution based on the LNI document class which you can download from:
 
+https://github.com/sstrecker/uf65/blob/main/myname-lni-author-template.tex
 
+We have also prepared a prearranged folder with all necessary LaTeX files for writing and compiling your contribution to download:
 
 https://github.com/sstrecker/uf65/blob/main/LaTeX-Package-UF65.zip
 
