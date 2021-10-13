@@ -24,7 +24,7 @@ https://github.com/sstrecker/uf65/blob/main/LaTeX-Package-UF65.zip
 
 Just download and unzip this archive and you will find the myname-lni-author-template.tex in the "LaTeX-Package-UF65" folder to start writing.
 
-You will probably need a current LaTeX installation which you can download from:
+You will probably need an up-to-date LaTeX installation which you can download from:
 
 https://tug.org/begin.html - installation instructions: https://www.ctan.org/starter
 
