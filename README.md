@@ -30,7 +30,7 @@ https://tug.org/begin.html - installation instructions: https://www.ctan.org/sta
 
 Generally recommended is [TeXLive](https://tug.org/texlive/)
 
-Recommended for Windows: MikTeX or [proTeXt](https://tug.org/protext/)
+Recommended for Windows: MikTeX / [proTeXt](https://tug.org/protext/)
 
 Recommended for macOS: [MacTeX](https://tug.org/mactex/)
 
