@@ -25,7 +25,7 @@ We have also prepared a prearranged folder with all necessary LaTeX files for wr
 https://github.com/sstrecker/uf65/blob/main/LaTeX-Package-UF65.zip
 
 
-## If you need assistance with using the LNI document class ...
+## If you need assistance using the LNI document class ...
 
 The LNI LaTeX document class is well-documented with current documentation at:
 
