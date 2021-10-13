@@ -1,8 +1,6 @@
 # Contributing to the anthology
 
-## Please use LaTeX for writing and submitting your contribution
-
-Please consider using [LaTeX](https://en.wikipedia.org/wiki/LaTeX) for writing your contribution.
+## Please consider using [LaTeX](https://en.wikipedia.org/wiki/LaTeX) for writing and submitting your contribution
 
 If you use LaTeX, please use the current LNI (Lecture Notes in Informatics) document class which you can download from
 
@@ -14,7 +12,7 @@ https://github.com/gi-ev/LNI
 
 which you may need in *rare* cases.
 
-## You may use this prepared LaTeX document for writing your contribution
+## You may use this prepared LaTeX document and prepackaged LNI package for writing your contribution
 
 **Please note:** We have prepared a LaTeX document for writing your contribution based on the LNI document class which you can download from:
 
