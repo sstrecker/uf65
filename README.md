@@ -37,7 +37,7 @@ Recommended for macOS: [MacTeX](https://tug.org/mactex/)
 
 ## If you need assistance using the LNI document class ...
 
-The LNI LaTeX document class is well-documented with current documentation at:
+The LNI document class is well-documented with current documentation at:
 
 http://mirrors.ctan.org/macros/latex/contrib/lni/lni.pdf
 
