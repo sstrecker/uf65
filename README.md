@@ -6,11 +6,11 @@ If you use LaTeX, please use the current LNI (Lecture Notes in Informatics) docu
 
 https://www.ctan.org/pkg/lni
 
-Please note that you find an updated, bugfixed development version of the LNI document class at 
+<!-- Please note that you find the somewhat more current development version of the LNI document class at 
 
 https://github.com/gi-ev/LNI
 
-which you may need in *rare* cases.
+which you may need in *rare* cases. -->
 
 ## You may use this prepared LaTeX document and prepackaged LNI package for writing your contribution
 
