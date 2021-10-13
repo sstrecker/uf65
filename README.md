@@ -22,6 +22,18 @@ We have also prepared a prearranged folder with all necessary LaTeX files for wr
 
 https://github.com/sstrecker/uf65/blob/main/LaTeX-Package-UF65.zip
 
+Just download and unzip this archive and you will find the myname-lni-author-template.tex in the "LaTeX-Package-UF65" folder to start writing.
+
+You will probably need a current LaTeX installation which you can download from:
+
+https://tug.org/begin.html - installation instructions: https://www.ctan.org/starter
+
+Generally recommended is [TeXLive](https://tug.org/texlive/)
+
+Recommended for Windows: MikTeX or [proTeXt](https://tug.org/protext/)
+
+Recommended for macOS: [MacTeX](https://tug.org/mactex/)
+
 
 ## If you need assistance using the LNI document class ...
 
